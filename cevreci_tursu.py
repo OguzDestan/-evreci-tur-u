@@ -22,4 +22,4 @@ async def on_message(message):
         await message.channel.send(f'özürdilerim annem çağırdıda.Ama anladın yani değilmi')
 
         
-client.run("MTE2MjQ0NTQyMTU2Njc2NzE2NA.Gpqjn6.gY0QJtjXyyVhlzBaSMpG4yAZyC4ITyssewBus4")
+client.run("")
